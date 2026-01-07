@@ -27,12 +27,7 @@ My work sits at the intersection of **engineering, systems thinking, and researc
 ## Featured work
 - **Valeon** — long-form publication + publishing pipeline (Astro, automation, infra)  
   → https://valeon.blog
-- **GigFin** — income/expense tracking for gig workers (Next.js, SQLite, product UX)  
-  → (add repo link)
-- **(Project #3)** — one-liner outcome + stack  
-  → (add link)
-
-> Tip: keep this list short and high-quality. 3–4 items max.
+- **GigFin** — income/expense tracking for gig workers (Next.js, SQLite, product UX)
 
 ---
 
