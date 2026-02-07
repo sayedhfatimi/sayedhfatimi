@@ -1,59 +1,51 @@
-<h1 align="center">Sayed Hamid Fatimi</h1>
-<p align="center">
-  Independent software developer • systems thinker • builder of products & pipelines
-</p>
+# Sayed Hamid Fatimi
 
-<p align="center">
-  <a href="https://valeon.blog">Website</a> •
-  <a href="https://linkedin.com/in/sayedhfatimi">LinkedIn</a> •
-  <a href="https://bsky.app/profile/sayedhfatimi.com">Bluesky</a> •
-  <a href="https://youtube.com/@sayedhfatimi">YouTube</a>
-</p>
+Independent software developer • systems thinker • builder of products & pipelines
+
+[Website](https://valeon.blog) • [Bluesky](https://bsky.app) • [YouTube](https://youtube.com)
 
 ---
 
 ## About
-I build **scalable, production-grade web systems** — from UI and APIs to infrastructure and automation.
-My work sits at the intersection of **engineering, systems thinking, and research**, with a recurring focus on:
-- **Full-stack TypeScript** (React/Next.js) and robust app architecture
-- **Deployment + automation** (Docker, CI, edge/CDN, server ops)
-- **Publishing pipelines & tooling** (content systems, media automation)
-- **Crypto market structure research** (mechanics, incentives, narratives)
 
-**Open to:** frontend, full-stack, and systems roles — especially where product craft meets rigorous engineering.
+I build scalable, production-grade systems — from UI and APIs to infrastructure and automation.
+
+My work sits at the intersection of engineering, systems thinking, and research, with a recurring focus on:
+
+- Full-stack TypeScript (React/Next.js) and robust app architecture
+- Deployment + automation (Docker, CI, edge/CDN, server ops)
+- Publishing pipelines & tooling (content systems, media automation)
+- Market structure research (mechanics, incentives, narratives)
 
 ---
 
 ## Featured work
+
 - **Valeon** — long-form publication + publishing pipeline (Astro, automation, infra)  
-  → https://valeon.blog
-- **GigFin** — income/expense tracking for gig workers (Next.js, SQLite, product UX)
+  https://valeon.blog
+
+- **VocaSync** — voice platform for creators & developers: TTS + forced alignment + subtitles/word-level timing (dashboard + REST API) *(closed source)*  
+  https://vocasync.io
+
+- **object0** — FOSS desktop app for managing multiple S3 buckets via API keys, with support for syncing/moving files across buckets/providers  
+  https://github.com/sayedhfatimi/object0
+
+- **GigFin** — income/expense tracking for gig workers (Next.js, SQLite, product UX)  
+  https://github.com/sayedhfatimi/gigfin
 
 ---
 
 ## Core stack
+
 **Frontend:** TypeScript, React, Next.js, Tailwind  
-**Backend:** Node.js, REST/OpenAPI, auth, background jobs  
-**Data:** SQLite/Postgres, Drizzle/Prisma (as applicable), Redis  
-**Infra:** Docker, Cloudflare, Vercel, Linux, Nginx
-
-<details>
-  <summary><b>More tools I’ve used</b></summary>
-
-- Astro, Express, Socket.io  
-- Supabase, MongoDB, MySQL/MariaDB  
-- Terraform, GitHub Actions  
-- Charting/UI libraries (Radix, Chakra, etc.)
-
-</details>
+**Backend:** Bun/Node.js, REST APIs, auth, background jobs  
+**Data:** SQLite/Postgres, Redis  
+**Infra:** Docker, Cloudflare, Vercel, Linux
 
 ---
 
-<details>
-  <summary><b>GitHub stats</b></summary>
+## GitHub stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sayedhfatimi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=sayedhfatimi&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhfatimi&theme=dark&hide_border=true&layout=compact)
-
-</details>
