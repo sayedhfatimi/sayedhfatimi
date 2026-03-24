@@ -20,16 +20,14 @@ My work sits at the intersection of engineering, systems thinking, and research,
 ---
 
 ## Featured work
-
 - **Valeon** — long-form publication + publishing pipeline (Astro, automation, infra)  
   https://valeon.blog
-
 - **VocaSync** — voice platform for creators & developers: TTS + forced alignment + subtitles/word-level timing (dashboard + REST API) *(closed source)*  
   https://vocasync.io
-
+- **plutarc** — orchestration platform for deploying algorithmic trading bots: composable strategies, backtesting suite, per-trade analytics, dedicated compute per instance *(closed source)*  
+  https://plutarc.cc
 - **object0** — FOSS desktop app for managing multiple S3 buckets via API keys, with support for syncing/moving files across buckets/providers  
   https://github.com/sayedhfatimi/object0
-
 - **GigFin** — income/expense tracking for gig workers (Next.js, SQLite, product UX)  
   https://github.com/sayedhfatimi/gigfin
 
