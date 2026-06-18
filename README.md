@@ -41,11 +41,11 @@
 
   ## Core stack
 
-  **Frontend:** TypeScript, React, Next.js, Tailwind, shadcn/ui
-  **Backend:** Bun/Node.js, Convex, REST APIs, auth (Clerk/Better Auth), background jobs
-  **Desktop:** Tauri, Rust
-  **Data:** Convex, SQLite/Postgres, Redis
-  **Infra:** Docker, Cloudflare, Vercel, Coolify, Linux
+  **Frontend:** TypeScript, React, Next.js, Tailwind, shadcn/ui  
+  **Backend:** Bun/Node.js, Convex, REST APIs, auth (Clerk/Better Auth), background jobs  
+  **Desktop:** Tauri, Rust  
+  **Data:** Convex, SQLite/Postgres, Redis  
+  **Infra:** Docker, Cloudflare, Vercel, Coolify, Linux  
 
   ---
 
